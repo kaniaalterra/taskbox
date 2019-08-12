@@ -333,7 +333,7 @@
    width: 0.85em;
    height: 0.85em;
    transform: translate3d(-50%, -50%, 0);
-   background: transparent;
+   background: red;
    box-shadow: #2cc5d2 0 0 0 1px inset;
    content: '';
    display: block;
